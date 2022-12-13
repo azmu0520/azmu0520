@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/azizbek-mukhtorov/" target="_blank"> Azizbek Mukhtorov </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Front+End+Developer+%3A)+Wrestler" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Front+End+Developer+%3A)+and+Wrestler" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
@@ -55,7 +55,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=azmu0520&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=azmu0520&show_icons=true&theme=dark&locale=en" alt="azizbek-mukhtorov" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=azmu0520&show_icons=true&theme=dark&locale=en&layout=compact" alt="azmu0520" /></td>
   </tr>
 </table>
