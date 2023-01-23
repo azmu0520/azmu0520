@@ -52,7 +52,10 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
-
+<p align="left"> 
+  <h3>Visitor count</h3>
+  <img src="https://profile-counter.glitch.me/azmu0520/count.svg" />
+</p>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=azmu0520&show_icons=true&theme=dark&locale=en" alt="azizbek-mukhtorov" /></td>
